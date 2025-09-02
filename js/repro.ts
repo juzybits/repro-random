@@ -28,6 +28,7 @@ tx.moveCall({
    arguments: [
       tx.object(counterId),
       tx.object.random(),
+      // tx.object("0x8"), // this works
    ],
 });
 

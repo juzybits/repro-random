@@ -12,7 +12,6 @@ node_modules/
 # Sui
 .coverage_map.mvcov
 .trace
-Move.lock
 sui-prover.log.*
 build/
 package_summaries/

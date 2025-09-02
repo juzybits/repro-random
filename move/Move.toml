@@ -1,0 +1,8 @@
+[package]
+name = "repro"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+repro = "0x0"

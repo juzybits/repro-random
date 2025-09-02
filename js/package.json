@@ -1,6 +1,5 @@
 {
-  "name": "js",
-  "module": "index.ts",
+  "name": "repro",
   "type": "module",
   "private": true,
   "devDependencies": {
